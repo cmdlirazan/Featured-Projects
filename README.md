@@ -1,35 +1,26 @@
-## Featured Projects
-This repository contains a collection of my standout projects across coursework, research, and independent work, demonstrating skills in programming, mathematics, engineering, and problem-solving.
+# Featured Projects
+Selected engineering and programming projects.
 
-### 📂 Projects Overview
-1. **Lab_03_Lirazan_Shehu_Hernandez_Controlling_Motor_Motion**  
-   - Designed and programmed a **color-sorting robot** with sensor-based sorting logic and motor control.
+## Index
 
-2. **Lirazan_CSE1321L_Assignment6_Meteor_Dodge**  
-   - Python game developed using **PyGame**, featuring collision detection, object movement, and event handling.
+### Color Sorting Robot
+Sensor-driven robotics project that detects and sorts colored objects using motor control logic.  
+Repository: https://github.com/cmdlirazan/MTRE-2710-Programming-for-Mechatronics
 
-3. **Lirazan_EDG1211_Vibrator_Arm**  
-   - Engineering Graphics project with **hand-drafted sketches, SOLIDWORKS 3D models, and CAD-generated orthographic drawings**, highlighting spatial reasoning and parametric modeling.
+### Mandelbrot Visualizations
+Fractal visualization project exploring the Mandelbrot Set using Python and C++ with NumPy and Matplotlib.  
+Repository: https://github.com/cmdlirazan/MTRE-2710-Programming-for-Mechatronics
 
-4. **Project02_Lirazan_Hernandez_Shehu_Mandelbrot**  
-   - Visualization of the **Mandelbrot Set** using **Python and C++**.  
-   - Focuses on **complex number mathematics, fractals, and iterative algorithms**.  
-   - Uses **NumPy, Matplotlib, and OS** for computation, visualization, and file management.
+### Meteor Dodge Game
+Python arcade-style game built with PyGame featuring collision detection, event handling, and dynamic object movement.  
+Repository: https://github.com/cmdlirazan/CSE-1321L-Programming-and-Problem-Solving-I-Laboratory 
 
-5. **Robot Drone Navigation in Complex Terrains (First-Year Scholars Program)**  
-   - Lead programmer for a KSU research project.  
-   - Developed drone navigation algorithms for complex terrains, emphasizing robotics and simulation for space exploration.
+### Soft Robotic Hybrid Ground-Aerial Robot
+Research project on a hybrid drone–walker robot designed for navigation across complex Martian terrain for NASA space exploration.  
+Repository: https://github.com/cmdlirazan/Robotic-Drone-Navigation-in-Complex-Terrain-s-For-NASA-s-Space-Exploration/tree/main
 
-### 🛠 Technologies Used
-- **Python** – Game logic, visualization, computational algorithms  
-- **C++** – Performance-oriented computation, Python integration  
-- **SOLIDWORKS** – 3D modeling and CAD-generated drawings  
-- Robotics sensors and actuator frameworks (hardware projects)
+## Installation
+Clone the repository to view the project index.
 
-### 🚀 Skills Demonstrated
-- Programming and debugging in **Python and C++**  
-- Robotics and motor control programming  
-- Game development and simulation  
-- **Mathematical modeling and computational mathematics**  
-- Engineering visualization and parametric modeling
-- Research and team-based project leadership
+```bash
+git clone https://github.com/cmdlirazan/featured-projects.git
